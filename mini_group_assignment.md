@@ -15,7 +15,7 @@ Wendy will work with the CalEnvironScreen 3.0 data base and will specifically ex
 
 **Status Update**: Recently, we have issues with sharing notebook on juypterhub. However, after visiting hours, we figured out how to clone each other's work onto juypter hub. 
 
-**Data Update**: As of now, we 
+**Data Update**: As of now, we have decided on what variables we will observe for each dataset. 
 
 **Concerns**: 
 
