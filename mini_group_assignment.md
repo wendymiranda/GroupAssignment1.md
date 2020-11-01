@@ -1,4 +1,4 @@
-**Project Title**: 
+**Project Title**: Built and Physical Environmental Impacts on Health Outcomes
 [Project Proposal](https://github.com/wendymiranda/GroupAssignments/blob/main/GroupAssignment1.md)
 
 **Roles**:
