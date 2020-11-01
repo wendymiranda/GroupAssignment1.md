@@ -15,7 +15,6 @@ Wendy will work with the CalEnvironScreen 3.0 data base and will specifically ex
 
 **Status Update**: Recently, we have issues with sharing notebook on juypterhub. However, after visiting hours, we figured out how to clone each other's work onto juypter hub. 
 
-**Data Update**: We will be working with the [California Healthy Places Index](https://healthyplacesindex.org/) and the [CalEnviroScreen 3.0](https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-30). As of now, we have decided on what variables we will observe for each dataset. 
+**Data Update**: We will be working with the [California Healthy Places Index](https://healthyplacesindex.org/) and the [CalEnviroScreen 3.0](https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-30). As of now, we have decided on what variables we will observe for each dataset, have cleaned up some of the HPI dataset, and have downloaded some census data. After cleaning up our HPI and census data, we created a few bar plots and maps that show the top census tracts with the lowest and highest household income and poverty level. We also explored which areas in Long Beach have greater tree canopy, park access, and HPI scores. We are still deciding on whether to add a third dataset for out project.
 
-**Concerns**: 
-
+**Concerns**: So far, we have no concerns.
