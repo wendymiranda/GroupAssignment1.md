@@ -23,6 +23,7 @@ Wendy will work with the CalEnvironScreen 3.0 data base and will specifically ex
 Major concerns: 
 1. In Bo's comments he mentioned doing a regression analysis on the datasets which makes sense but we may need more information on how to do this successfully in Jupyter. 
 2. Another concern is that we may not find that there is a strong relationship between the variables that we are looking at. 
+
 Minor conerns: 
 1. Not having the time to explore the data in as much depth as we would like 
 
