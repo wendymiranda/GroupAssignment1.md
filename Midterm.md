@@ -1,7 +1,7 @@
 # Updated Project Proposal
 
 Research Question: Introduction and Importance
-For our project, we are interested in how parks and tree canopies effect the levels of PM 2.5 and 10 in the city of Los Angeles. Specifically, our research question is as follows: Does exposure to green spaces and tree canopy coverage have an effect on particulate matter levels 2.5 and 10 in the city of Los Angeles? We may also be interested in mapping areas with health issues (like athsma and diabetes) to see if they correspond to areas of high particulate matters. If time permits we'd also like to look at socioeconomic factors and race in LA. 
+For our project, we are interested in how parks and tree canopies effect the levels of PM 2.5 in the city of Los Angeles. Specifically, our research question is as follows: Does exposure to green spaces and tree canopy coverage have an effect on particulate matter levels 2.5 in the city of Los Angeles? We may also be interested in mapping areas with health issues (like athsma and diabetes) to see if they correspond to areas of high particulate matters. If time permits we'd also like to look at socioeconomic factors and race in LA. 
 
 There is exisisting literature that shows how access to greenspace and greenery can impact air quality. We are interested in this as well as tree canopy as they are related but separate environmental features. Los Angeles county, in particular, continues to be ranked among the worst for air quality and has a shortage of green spaces (American Lung Association, 2020; KCET, 2018). Examining this relationship is in important in determining how urban planning can impact public health. We are also seeing that green space and shade disparities fall along socioeconomic lines and contribute to disparities in quality of life. 
 
@@ -25,13 +25,13 @@ Each category is broken up into different indicators and each of these indicator
 
 The second data source we will use is Cal Enviro Screen: https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-30. Cal Enviro Screen is a mapping tool that identities which California communities are most effected by different sources of pollution. The map is organized by census tract with each tract receiving a percentile score with 1-10% being the least polluted and 91-100% being the most polluted. In addition to this percentile score each tract shows the population, race/ ethnicity, and age and shows what was measured in order to determine the percentile score. For example they measure the Ozone, PM 2.5, and Pesticides for pollution measures. Athsma, low birth weight, and cardiovascular rate are measured for health vulnerability. And Education, Linguistic Isolation, Poverty, Unemployment, and Housing burden are measured for socioeconimic vulnerability.
 
-If time permits we may work with census data to look at income and race. And we may look at PurpleAir data: https://www2.purpleair.com/ to explore air quality changes over time. 
+If time permits we may work with census data to look at income and race. And we may look at PurpleAir data: https://www2.purpleair.com/ to explore air quality changes over time as well as to examine PM 10 levels. 
 
 Intended Analysis and Visualizations:
 
 So far we have mapped park access by census tract in LA and have maps for census tracts that have no park access as well as census tracts that have 100% park access. As well as a map looking at park count by neighborhood. And while park access can give some insight into how "green" a neighborhood is we have also mapped tree canopy coverage to give a more complete picture of the landscape and greenery of the neighborhoods. We also have histograms looking at the top 10 and lowest 10 census tracts for park access and tree canopy coverage. 
 
-**Add PM map info**
+We have also mapped PM 2.5 levels by neighborhood in LA. This can provide us with more information on which neighborhood have the highest PM 2.5 levels and which neighborhood has the lowest. We also have a bar graph of the highest and lowest PM 2.5 levels by neighborhood. 
 
 A map of the areas we research will help the reader visualize what differences exist between the areas. It may make sense to have health outcomes and pollutants/ built features on two different maps, or we may combine them if doing so does not compromise the maps legibility. We will also produce histograms that compare in greater detail the variables we measured for our geogrpahic areas.
 
