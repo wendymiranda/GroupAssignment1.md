@@ -29,7 +29,10 @@ If time permits we may work with census data to look at income and race. And we 
 
 Intended Analysis and Visualizations:
 
-So far we have mapped park access by census tract in LA and have maps for census tracts that have no park access as well as census tracts that have 100% park access. As well as a map looking at park count by neighborhood. And while park access can give some insight into how "green" a neighborhood is we have also mapped tree canopy coverage to give a more complete picture of the landscape and greenery of the neighborhoods. We also have histograms looking at the top 10 and lowest 10 census tracts for park access and tree canopy coverage. **Add PM map info**
+So far we have mapped park access by census tract in LA and have maps for census tracts that have no park access as well as census tracts that have 100% park access. As well as a map looking at park count by neighborhood. And while park access can give some insight into how "green" a neighborhood is we have also mapped tree canopy coverage to give a more complete picture of the landscape and greenery of the neighborhoods. We also have histograms looking at the top 10 and lowest 10 census tracts for park access and tree canopy coverage. 
+
+**Add PM map info**
+
 A map of the areas we research will help the reader visualize what differences exist between the areas. It may make sense to have health outcomes and pollutants/ built features on two different maps, or we may combine them if doing so does not compromise the maps legibility. We will also produce histograms that compare in greater detail the variables we measured for our geogrpahic areas.
 
 Conclusion:
